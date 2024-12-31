@@ -25,6 +25,8 @@ body {
   text-align: center;
   color: white;
   text-transform: uppercase;
+  position: relative;
+  top: -100px;
 }
 
 .new-year {
